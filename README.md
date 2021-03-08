@@ -1,1 +1,2 @@
 # Economics
+Looking at the economies of the all the countries in the World evaluating them and measuring them by a score. It's a number of factors that range from property rights to the tax rate and GDP. The correlation between the # of features is explored which is likely helpful in giving suggestions how an economy can be better run. It answers questions while encouraging a lot of other questions that seems to be the prerequisite for extensive research. 
